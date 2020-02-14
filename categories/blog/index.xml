@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on David Scrobonia</title>
+    <link>https://dscrobonia.github.io/categories/blog/</link>
+    <description>Recent content in blog on David Scrobonia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dscrobonia.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://dscrobonia.github.io/blog/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dscrobonia.github.io/blog/</guid>
+      <description>Hacking with a Heads Up Display - Decembter 2018</description>
+    </item>
+    
+  </channel>
+</rss>

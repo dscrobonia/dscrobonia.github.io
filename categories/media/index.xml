@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>media on David Scrobonia</title>
+    <link>https://dscrobonia.github.io/categories/media/</link>
+    <description>Recent content in media on David Scrobonia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dscrobonia.github.io/categories/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Podcasts and Interviews</title>
+      <link>https://dscrobonia.github.io/media/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dscrobonia.github.io/media/</guid>
+      <description>Absolute Appsec Podcast - January 2019
+Getting into Infosec Podcast - May 2019
+Interview with Sqreen - July 2019</description>
+    </item>
+    
+  </channel>
+</rss>
