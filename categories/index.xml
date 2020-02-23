@@ -6,10 +6,19 @@
     <description>Recent content in Categories on David Scrobonia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 14 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2020 15:59:13 -0400</lastBuildDate>
     
 	<atom:link href="https://dscrobonia.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>develpoment</title>
+      <link>https://dscrobonia.github.io/categories/develpoment/</link>
+      <pubDate>Mon, 17 Feb 2020 15:59:13 -0400</pubDate>
+      
+      <guid>https://dscrobonia.github.io/categories/develpoment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>about</title>
