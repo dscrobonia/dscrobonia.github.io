@@ -43,6 +43,23 @@
   analytics.load("Nljoxj6werrHDaIwTgGI24vu7ibodX8O");
   analytics.page();
   }}();
+
+  document.addEventListener("DOMContentLoaded", () => {
+    const host = document.location.host
+    const links = document.getElementsByTagName('a');
+
+    for (const link of links) {
+      if (link.host !== host)
+      link.addEventListener('click', function() {
+        analytics.page({
+          "title": link.text,
+          "url": link.href,
+          "path": link.pathname
+        },)
+      });
+    };
+  })
+  
 </script>
 
 </head>

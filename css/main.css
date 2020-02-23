@@ -53,7 +53,7 @@ li {
   color: #966 !important;
 }
 .container {
-  overflow: auto;
+  overflow: none;
 
   max-width: 680px;
   padding: 0 15px;
