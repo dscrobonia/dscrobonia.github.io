@@ -129,7 +129,7 @@ html, body {
   text-align: left;
 }
 
-@keyframes slidein {
+/* @keyframes slidein {
   from {
     margin-right: 100%;
     width: 200%;
@@ -155,7 +155,7 @@ html, body {
     width: 100%;
     opacity: 0;
   }
-}
+} */
 
 @keyframes wiggle {
   0% { transform: rotate(0deg); }
@@ -185,8 +185,6 @@ html, body {
   padding: 0px;
   width: 100%;
   text-align: center;
-  /* animation: fade 1s ease 1s both; */
-  /* animation: 1s slidein; */
 }
 .social-links li {
   display: inline-block;
@@ -199,7 +197,7 @@ html, body {
   color: #6b6b6b;
   padding: 0px;
   padding-bottom: 4px;
-  transition: all .4s ease;
+  /* transition: all .4s ease; */
 }
 .social-links li a:hover {
   color: #000;
